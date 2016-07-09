@@ -1,4 +1,3 @@
-# AWS-OpenBSD
-AWS playground for OpenBSD kids
+# OpenBSD AMI Creator
 
-Running whatever is in this repo will propably end up destroying a kitten factory.
+Scripts to create and distribute up-to-date OpenBSD AMIs. 
